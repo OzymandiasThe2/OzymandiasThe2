@@ -1,4 +1,4 @@
-<h3 align="center">A neworking and cyber security under graduate</h3>
+<h3 align="center">A neworking and cyber security undergraduate</h3>
 
 - 🔭 I’m currently working on **an uber eats style mobile applciation for a mobile dev course**
 
